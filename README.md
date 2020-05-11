@@ -1,0 +1,6 @@
+# FlyingFish
+
+simple fish game , 
+when fish eat green ball score is incresed by 20,eating yellow ball score is increased by 10 and eating red will reduce the 
+energy....
+if three time red then game is over...
